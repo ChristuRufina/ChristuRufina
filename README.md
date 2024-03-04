@@ -1,7 +1,8 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Christu Rufina</h1>
+<h3 align="center">A passionate frontend developer</h3>
 
-Front-end Developer
--------------------
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ChristuRufina&label=Profile%20views&color=0e75b6&style=flat" alt="ChristuRufina" /> </p>
+
 
 * 🌍  I'm based in Chennai,TamilNadu
 * ✉️  You can contact me at [christurufina@gmail.com](mailto:christurufina@gmail.com)
@@ -21,10 +22,9 @@ Front-end Developer
 
 ### Badges
 
-<b>My GitHub Stats</b>
 
-<a href="http://www.github.com/ChristuRufina"><img src="https://github-readme-stats.vercel.app/api?username=ChristuRufina&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ChristuRufina's GitHub stats" /></a>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ChristuRufina&show_icons=true&locale=en&layout=compact" alt="ChristuRufina" /></p>
 
-<a href="http://www.github.com/ChristuRufina"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ChristuRufina&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ChristuRufina&show_icons=true&locale=en" alt="ChristuRufina" /></p>
 
-<a href="https://github.com/ChristuRufina" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChristuRufina&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ChristuRufina&" alt="ChristuRufina" /></p>
